@@ -9,6 +9,7 @@ This repository contains code files for various data structures and algorithms c
 - [Stack](./stack/README.md)
 - [Queue](./queue/README.md)
 - [Tree](./tree/README.md)
+- [Graph](./tree/README.md)
 - [Heap](./heap/README.md)
 
 ## Array
@@ -40,6 +41,12 @@ For detailed information and code examples, please refer to the [Queue README](.
 The tree directory contains code files related to tree data structures and related algorithms. It includes implementations of binary trees, binary search trees, AVL trees, and various tree traversal algorithms like in-order, pre-order, and post-order traversals.
 
 For detailed information and code examples, please refer to the [Tree README](./tree/README.md).
+
+## Graph
+
+The graph directory contains code files related to tree data structures and related algorithms. It includes implementations of DFS, BFS and various graph traversal algorithms.
+
+For detailed information and code examples, please refer to the [Graph README](./tree/README.md).
 
 ## Heap
 
